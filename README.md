@@ -1,6 +1,7 @@
-demo live [responsive_react_navbar.surge.sh]
+[demo]  (https://my_react_responsive_navbar.surge.sh)
 
- ###npm i
+
+### npm i
 
 ### npm run build-css
 

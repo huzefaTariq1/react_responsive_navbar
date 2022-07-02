@@ -1,11 +1,18 @@
 import React from 'react'
 import Navbar from '../navbar/Navbar'
+import ColorChanging from '../components/ColorChanging'
+
 
 const Home = () => {
+  
+
+
   return (
     <div>
         <Navbar/>
-    <h1>Home</h1>
+        <ColorChanging/>
+    <h1 >Home</h1>
+  
     </div>
   )
 }
